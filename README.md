@@ -3,8 +3,8 @@
 # Frontend Interview Questions
 
 1. What is IIFE?
-Immediately Invoked Function   
-It creates a closure around the code and is a way to execute it immediately as soon as they are created.
+>Immediately Invoked Function   
+>It creates a closure around the code and is a way to execute it immediately as soon as they are created.
 	
 
 2. What is ‘this’ keyword in JS and what does it bind to?
@@ -14,9 +14,9 @@ It creates a closure around the code and is a way to execute it immediately as s
 
 3. What is the different between absolute, relative, static positions in css?
 
-Relative: is means relative to its normal position, top, bottom, left, right
-Static: as the name suggests is always positioned according to the normal flow of the page
-Absolute: is positioned relative to the nearest positioned ancestor
+>Relative: is means relative to its normal position, top, bottom, left, right
+>Static: as the name suggests is always positioned according to the normal flow of the page
+>Absolute: is positioned relative to the nearest positioned ancestor
 
 4. What are the three parts of an http request?
 
@@ -28,8 +28,9 @@ Absolute: is positioned relative to the nearest positioned ancestor
 # WHITEBOARD QUESTIONS:
 
 1. Add two values
-	  function add(a,b){
-		  return a + b; 	}
+	  function add(a,b) {
+		  return a + b;
+	  }
 
 	  console.log(add(1,2))
 	
@@ -58,6 +59,6 @@ Absolute: is positioned relative to the nearest positioned ancestor
 
 	  console.log(flatten([[1,-1,-3,-4], [2,3], [4]]))
 
-	- Shuffle an array of integers 
+5. Shuffle an array of integers 
 
 	
