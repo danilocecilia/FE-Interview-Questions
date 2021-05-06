@@ -8,15 +8,19 @@ It creates a closure around the code and is a way to execute it immediately as s
 	
 
 2. What is ‘this’ keyword in JS and what does it bind to?
+
 It is a reference to an object which is being used outside a function, this refers to a global object, for example this.window
 ES6 doesn’t have this, they inherit from the parent, using arrow functions.
 
 3. What is the different between absolute, relative, static positions in css?
+
 Relative: is means relative to its normal position, top, bottom, left, right
 Static: as the name suggests is always positioned according to the normal flow of the page
 Absolute: is positioned relative to the nearest positioned ancestor
 
 4. What are the three parts of an http request?
+
+
 	1. Pre flight, client establishes the connection, usually this is TCP,  http server, default port is 80
 	2. Client sends request to a web browser (GET/POST)
 	3. After the request the server process it and returns a response, most important is the status code 200, 303, etc…
