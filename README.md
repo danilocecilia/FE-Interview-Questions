@@ -2,10 +2,9 @@
 
 # Frontend Interview Questions
 
-	1. What is IIFE?
-	 Immediately Invoked Function
-   
- 	 It creates a closure around the code and is a way to execute it immediately as soon as they are created.
+1. What is IIFE?
+Immediately Invoked Function   
+It creates a closure around the code and is a way to execute it immediately as soon as they are created.
 	
 
   2. What is ‘this’ keyword in JS and what does it bind to?
