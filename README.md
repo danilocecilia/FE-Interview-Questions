@@ -9,8 +9,8 @@ It creates a closure around the code and is a way to execute it immediately as s
 
 2. What is ‘this’ keyword in JS and what does it bind to?
 
-It is a reference to an object which is being used outside a function, this refers to a global object, for example this.window
-ES6 doesn’t have this, they inherit from the parent, using arrow functions.
+>It is a reference to an object which is being used outside a function, this refers to a global object, for example this.window
+>ES6 doesn’t have this, they inherit from the parent, using arrow functions.
 
 3. What is the different between absolute, relative, static positions in css?
 
